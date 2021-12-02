@@ -1,4 +1,4 @@
-//https://adventofcode.com/2021/day/2/input
+//https://adventofcode.com/2021/day/2/input - browser console
 
 //First one
 var main = document.querySelector("body > pre").innerHTML.split("\n")
